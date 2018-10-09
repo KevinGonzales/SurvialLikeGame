@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Assets/scripts/PowerUps.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/shootGun.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/SpawnPowerUps.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/EnemyHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/WaveGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/LevelController.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/EnemyAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets/Realistic Terrain Collection/Other/Effects/ImageEffects/Scripts/PostEffectsBase.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/CharacterMovement.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
